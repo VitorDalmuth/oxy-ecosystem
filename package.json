@@ -1,0 +1,13 @@
+{
+  "name": "proposta-oxy-ecosystem-final",
+  "version": "1.0.0",
+  "description": "Proposta comercial OXY EcoSystem - 2STEP MÍDIA",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve -s ."
+  },
+  "keywords": ["proposta", "oxy", "ecosystem", "2step", "midia"],
+  "author": "2STEP MÍDIA",
+  "license": "MIT"
+}
